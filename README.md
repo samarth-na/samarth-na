@@ -1,5 +1,10 @@
-Hi there! 👋, I'm Samarth, interested in Linux, development tool chains,  Go, and cloud
+### for recruiters and lurkers:-
 
-Programming Languages I'm familiar with:- ` C, C++, Bash, Go, Lua, Python, HTML/CSS, JavaScript, TypeScript, Java`
+Hi there! 👋, I'm Samarth, or just Sam. I love computers and software I started coding after watching cs50 course on edx and i loved the world of computers so much i decided to change my major in engineering to computer science since then I have been messing around with everything from OS to LLms to internet. I've tried more than 10 languages, 4 operating system, countless databases and frameworks. all not for any exam or company preparation just for the fun of it. I also hope to have a long career in tech weather it be writing bash scripts for supercomputers (best case) or managing react or java 1.0 (worst case).
 
-📫  reach me `samarth07nagar@gmail.com`
+I am lacking some work experience but the part of world I'm at that is the common thing but I still strive for more. I am not as fond of coding as I am of other aspects of computer science but luckily its not a big part of work and with my absolutley blazingly fast devloper workflow i can get in and out of coding quickly. but I do enjoy it and I try to get better at it. I mean when we love something we do try to imrpove ourself for it and make it better aswell. 
+
+📫  reach me `samarth07nagar@gmail.com` 
+
+### for everyone else:-
+[dotfiles](https://github.com/samarth-na/dotfiles) is my main dotfiles dir but there are legacy nvim dirs that i grew out of. in there is shel configs for zsh and fish i dont use zsh anymore. with it have starship, atuin, zaoxide, lazygit, yazi which are other primary app i use. there is also nvim there which is pretty mature and doesnt change much feel free to dive in and see my plugins i use all of this usually stays in tmux and alacritty. tmux's resuract plugin has no alternative in entire ecosystem and i cant live without it and its easthetics and the way it blends in with terminal ui is out of the world its amazing but its getting old i hope someone ports it into rust(dont look at me). alacritty takes teast ammount of memory <20mb so its my obvious choice also its fast af as its not gtk based 
