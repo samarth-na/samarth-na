@@ -1,5 +1,5 @@
-samarth@fedora:~$ whoami
-Backend Developer | DevOps Engineer | System Administrator | Full Stack Architect
+> samarth@fedora:~$ whoami\
+> Backend Developer | DevOps Engineer | System Administrator | Full Stack Architect
 
 Hi, I'm Samarth (Sam). I’m a full-stack developer interested in systems, infrastructure, networking, databases, and CI/CD.
 
