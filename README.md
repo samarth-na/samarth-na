@@ -1,10 +1,45 @@
-### for recruiters and lurkers:-
+Hi, I'm Samarth (Sam). I’m a full-stack developer interested in systems, infrastructure, networking, databases, and CI/CD.
 
-Hi there! 👋, I'm Samarth, or just Sam. I love computers and software I started coding after watching cs50 course on edx and i loved the world of computers so much i decided to change my major in engineering to computer science since then I have been messing around with everything from Operating systems to large language models to internet protocals. I've tried more than 10 languages, 4 operating system, countless databases and frameworks. all not for any exam or interview preparation just for the love of it. I hope to have a long career in tech weather it be writing bash scripts for supercomputers (best case) or managing react or java 1.0 (worst case).
+I started programming after taking Harvard's CS50 course on edX. I enjoyed it enough to switch my engineering major to computer science, and since then I’ve spent most of my time exploring everything from operating systems and network protocols to distributed systems and large language models.
 
-I am lacking some work experience but the part of world I'm at that is the common thing but I still strive for more. I am fond coding and i take honor in it as I do of every aspect of computer science but luckily it matters every BIT, and with my absolutley blazingly fast devloper workflow i can get in and out quickly. but I do enjoy really it and I try to get better at it. I mean we all try to be best at the things we love and find honor in doing. 
+I learn primarily through experimentation and building. Over time, I’ve worked with multiple programming languages, Linux environments, databases, frameworks, and self-hosted tooling — mostly driven by curiosity.
 
-📫  reach me `samarth07nagar@gmail.com` 
+I enjoy working close to the system: shell workflows, automation, performance, infrastructure, and tools that improve developer experience.
 
-### for everyone else:-
-[dotfiles](https://github.com/samarth-na/dotfiles) is my main dotfiles dir but there are legacy nvim dirs that i grew out of. in there is shel configs for zsh and fish i dont use zsh anymore. with it have starship, atuin, zaoxide, lazygit, yazi which are other primary app i use. there is also nvim there which is pretty mature and doesnt change much feel free to dive in and see my plugins i use all of this usually stays in tmux and alacritty. tmux's resuract plugin has no alternative in entire ecosystem and i cant live without it and its easthetics and the way it blends in with terminal ui is out of the world its amazing but its getting old i hope someone ports it into rust(dont look at me). alacritty takes teast ammount of memory <20mb so its my obvious choice also its fast af as its not gtk based 
+Currently exploring: cloud and infrastructure, high-performance system design, database optimization, networking and security, and backend architecture.
+
+📫 [samarth07nagar@gmail.com](mailto:samarth07nagar@gmail.com)
+
+## I have worked with
+
+Languages: JavaScript/TypeScript, Python, Bash, Go
+Databases: PostgreSQL, MySQL, SQLite, LibSQL (sqld)
+Backend & APIs: WebSockets, RPC, GraphQL, tRPC
+Cloud & Platforms: Cloudflare, Vercel, GCP, Convex, Supabase, Firebase
+Experience with: Workers, R2, D1, Durable Objects, DNS, Edge Functions, serverless deployments
+DevOps & Infrastructure: Docker, Podman, Kubernetes, Docker Compose, container deployments
+Servers & Networking: Nginx, Kafka, Apache HTTP Server, SSL/TLS, SSH
+
+# About My Setup
+
+My main setup and configurations live in my dotfiles repository:
+[dotfiles](https://github.com/samarth-na/dotfiles)
+
+It includes configs for Neovim, tmux, shell environments, terminal tooling, and my Linux workflow. Most of my development environment revolves around Fedora Linux, tmux, Alacritty, and terminal-first tooling.
+
+System: 
+- Moto Book 60 Pro
+- Intel Core Ultra 5 225H
+- 16GB LPDDR5 RAM
+- Fedora Linux 43 (since Fedora 38)
+- GNOME 49
+
+Main Workflow: 
+- Alacritty - terminal
+- Neovim - editor
+- tmux - multiplexer session manager
+- OpenCode - main AI agent 
+- Pi - side AI agent
+- fish - shell 
+
+Regular tools: Yazi, Lazygit, Lazydocker, btop, Starship, Atuin, Zoxide, hunk
