@@ -1,3 +1,6 @@
+samarth@fedora:~$ whoami
+Backend Developer | DevOps Engineer | System Administrator | Full Stack Architect
+
 Hi, I'm Samarth (Sam). I’m a full-stack developer interested in systems, infrastructure, networking, databases, and CI/CD.
 
 I started programming after taking Harvard's CS50 course on edX. I enjoyed it enough to switch my engineering major to computer science, and since then I’ve spent most of my time exploring everything from operating systems and network protocols to distributed systems and large language models.
@@ -20,7 +23,7 @@ Experience with: Workers, R2, D1, Durable Objects, DNS, Edge Functions, serverle
 DevOps & Infrastructure: Docker, Podman, Kubernetes, Docker Compose, container deployments
 Servers & Networking: Nginx, Kafka, Apache HTTP Server, SSL/TLS, SSH
 
-# About My Setup
+## About My Setup
 
 My main setup and configurations live in my dotfiles repository:
 [dotfiles](https://github.com/samarth-na/dotfiles)
