@@ -22,32 +22,45 @@ I learn primarily through experimentation and building. Over time, I've worked w
 
 I enjoy working close to the system: shell workflows, automation, performance, infrastructure, and tools that improve developer experience.
 
-Currently exploring: cloud and infrastructure, high-performance system design, database optimization, networking and security, and backend architecture.
-
 📫 [samarth07nagar@gmail.com](mailto:samarth07nagar@gmail.com)
+
+
+## Currently 
+
+- Education: in senior year of Honors in Bachelors of Technology at sage uiversity Indore,\
+- exploring: cloud and infrastructure, high-performance system design, database optimization, networking and security, and backend architecture.\
+- Working with: Typescript, postgress, cloudflare.\
+- doing: researches on open-source pillars of software like linux, sqlite, docker for publishing. \
+- looking for internsihps and freelancing work.\
+
+
+---
 
 ## I have worked with
 
-![Languages](https://img.shields.io/badge/Languages-2d2d2d?style=flat-square)\
+### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-![Databases](https://img.shields.io/badge/Databases-2d2d2d?style=flat-square)\
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![LibSQL](https://img.shields.io/badge/LibSQL_(sqld)-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-![Backend & APIs](https://img.shields.io/badge/Backend_%26_APIs-2d2d2d?style=flat-square)\
+### Backend & APIs
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![RPC](https://img.shields.io/badge/RPC-555555?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 
-![Cloud & Platforms](https://img.shields.io/badge/Cloud_%26_Platforms-2d2d2d?style=flat-square)\
+### Cloud & Platforms
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -56,7 +69,8 @@ Currently exploring: cloud and infrastructure, high-performance system design, d
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-![Cloudflare Experience](https://img.shields.io/badge/Cloudflare_Experience-2d2d2d?style=flat-square)\
+#### Cloudflare Experience
+
 ![Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![R2](https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![D1](https://img.shields.io/badge/D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
@@ -65,18 +79,21 @@ Currently exploring: cloud and infrastructure, high-performance system design, d
 ![Edge Functions](https://img.shields.io/badge/Edge_Functions-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Serverless Deployments](https://img.shields.io/badge/Serverless_Deployments-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-![DevOps & Infrastructure](https://img.shields.io/badge/DevOps_%26_Infrastructure-2d2d2d?style=flat-square)\
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![Servers & Networking](https://img.shields.io/badge/Servers_%26_Networking-2d2d2d?style=flat-square)\
+### Servers & Networking
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat-square&logo=apache&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-4B9CD3?style=flat-square&logo=letsencrypt&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+---
 
 ## About My Setup
 
