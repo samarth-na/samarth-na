@@ -2,61 +2,81 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Systems+%26+Infrastructure;Linux+%2F+Networking+%2F+DevOps;" />
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarth-na&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/samarth-na?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/samarth-na?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/samarth-na/dotfiles?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=samarth-na&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/samarth-na?style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/samarth-na?style=flat&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/samarth-na/dotfiles?style=flat" />
 </p>
-
-
-
-
 
 
 
 > samarth@fedora:~$ whoami\
 > Backend Developer | DevOps Engineer | System Administrator | Full Stack Architect
 
-Hi, I'm Samarth (Sam). I’m a full-stack developer interested in systems, infrastructure, networking, databases, and CI/CD.
+Hi, I'm Samarth (Sam). I'm a full-stack developer interested in systems, infrastructure, networking, databases, and CI/CD.
 
-I started programming after taking Harvard's CS50 course on edX. I enjoyed it enough to switch my engineering major to computer science, and since then I’ve spent most of my time exploring everything from operating systems and network protocols to distributed systems and large language models.
+I started programming after taking Harvard's CS50 course on edX. I enjoyed it enough to switch my engineering major to computer science, and since then I've spent most of my time exploring everything from operating systems and network protocols to distributed systems and large language models.
 
-I learn primarily through experimentation and building. Over time, I’ve worked with multiple programming languages, Linux environments, databases, frameworks, and self-hosted tooling — mostly driven by curiosity.
+I learn primarily through experimentation and building. Over time, I've worked with multiple programming languages, Linux environments, databases, frameworks, and self-hosted tooling — mostly driven by curiosity.
 
 I enjoy working close to the system: shell workflows, automation, performance, infrastructure, and tools that improve developer experience.
 
 Currently exploring: cloud and infrastructure, high-performance system design, database optimization, networking and security, and backend architecture.
 
-![](https://komarev.com/ghpvc/?username=samarth-na&color=blueviolet&style=flat-square)
-
 📫 [samarth07nagar@gmail.com](mailto:samarth07nagar@gmail.com)
 
 ## I have worked with
 
-Languages:  JavaScript/TypeScript, Python, Bash, Go\
-Databases:  PostgreSQL, MySQL, SQLite, LibSQL (sqld)\
-Backend & APIs:  WebSockets, RPC, GraphQL, tRPC\
-Cloud & Platforms:  Cloudflare, Vercel, GCP, Convex, Supabase, Firebase, AWS\
-Experience with:  Workers, R2, D1, Durable Objects, DNS, Edge Functions, serverless deployments\
-DevOps & Infrastructure:  Docker, Podman, Kubernetes, Docker Compose, container deployments\
-Servers & Networking:  Nginx, Kafka, Apache HTTP Server, SSL/TLS, SSH\
+![Languages](https://img.shields.io/badge/Languages-2d2d2d?style=flat-square)\
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
+![Databases](https://img.shields.io/badge/Databases-2d2d2d?style=flat-square)\
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![LibSQL](https://img.shields.io/badge/LibSQL_(sqld)-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+![Backend & APIs](https://img.shields.io/badge/Backend_%26_APIs-2d2d2d?style=flat-square)\
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![RPC](https://img.shields.io/badge/RPC-555555?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+
+![Cloud & Platforms](https://img.shields.io/badge/Cloud_%26_Platforms-2d2d2d?style=flat-square)\
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+![Cloudflare Experience](https://img.shields.io/badge/Cloudflare_Experience-2d2d2d?style=flat-square)\
+![Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![R2](https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![D1](https://img.shields.io/badge/D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Durable Objects](https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Edge Functions](https://img.shields.io/badge/Edge_Functions-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Serverless Deployments](https://img.shields.io/badge/Serverless_Deployments-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+![DevOps & Infrastructure](https://img.shields.io/badge/DevOps_%26_Infrastructure-2d2d2d?style=flat-square)\
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![Servers & Networking](https://img.shields.io/badge/Servers_%26_Networking-2d2d2d?style=flat-square)\
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat-square&logo=apache&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-4B9CD3?style=flat-square&logo=letsencrypt&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-121011?style=flat-square&logo=gnubash&logoColor=white)
 
 ## About My Setup
 
@@ -73,12 +93,14 @@ System:
 - GNOME 49
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fedora_43-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Terminal_First-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-fish-34C534?style=for-the-badge&logo=fishshell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multiplexer-tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal-Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora_43-294172?style=flat-square&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCode-121011?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pi_Agent-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
 </p>
 
 Main Workflow: 
