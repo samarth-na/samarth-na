@@ -35,7 +35,6 @@ I learn through building. Currently:
 🎓 **Education:** SAGE University Indore (B.Tech Computer Science, Expected 2026) · CGPA 7.8/10  
 📧 [samarth07nagar@gmail.com](mailto:samarth07nagar@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/samarth-nagar-926b52230/) | 🐙 [GitHub](https://github.com/samarth-na) | 🌐 [Portfolio](https://samarth-na.vercel.app)
 
----
 
 ## Experience
 
@@ -51,7 +50,6 @@ Built healthcare mapping platform for locating nearby medical facilities, compet
 **MSME Incubation Collaboration**  
 Designed data collection pipelines and system architecture with postgraduate researchers (government-backed initiative).
 
----
 
 ## Featured Projects
 
@@ -67,7 +65,6 @@ Developed streaming chat interface for locally-hosted AI models. Backend APIs fo
 Next.js, MDX · [Live](https://samarth-na.vercel.app)  
 Built SEO-optimized static blog with server-side rendering and edge caching. Sub-200ms page load times on Vercel's edge network.
 
----
 
 ## Research & Case Studies
 
@@ -85,7 +82,6 @@ Analyzed real production codebase to understand high-quality architecture decisi
 📄 **Full Report:** [casestudy-reactdotdev.samarth.page](https://casestudy-reactdotdev.samarth.page/)  
 📝 **Detailed Notes:** [Notion](https://samarthagar.notion.site/react-dev-363452daf74880b38e9df9e24d770dfa)
 
----
 
 ## Tech Stack
 
@@ -145,7 +141,6 @@ Analyzed real production codebase to understand high-quality architecture decisi
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-4B9CD3?style=flat-square&logo=letsencrypt&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-121011?style=flat-square&logo=gnubash&logoColor=white)
 
----
 
 ## Fun stuff!!!
 
@@ -180,7 +175,5 @@ Main Workflow:
 
 Other tools: Yazi, Lazygit, Lazydocker, btop, Starship, Atuin, Zoxide, hunk
 
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samarth-na&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samarth-na&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
