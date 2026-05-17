@@ -10,9 +10,14 @@
 </p>
 
 
+```fish
+samarth@fedora:~$ whoami
+Backend Developer | DevOps Engineer | System Administrator | Full Stack Architect
+samarth@fedora:~$ cat location.txt
+Indore, India | 3rd Year CS Student | Available for Internships & freelancing 
+```
 
-> samarth@fedora:~$ whoami\
-> Backend Developer | DevOps Engineer | System Administrator | Full Stack Architect
+## about
 
 Hi, I'm Samarth (Sam). I'm a full-stack developer interested in systems, infrastructure, networking, databases, and CI/CD.
 
@@ -22,19 +27,20 @@ I learn primarily through experimentation and building. Over time, I've worked w
 
 I enjoy working close to the system: shell workflows, automation, performance, infrastructure, and tools that improve developer experience.
 
-📫 [samarth07nagar@gmail.com](mailto:samarth07nagar@gmail.com)
+
+📍 **Based in:** Indore, India  
+🎓 **Education:** SAGE University Indore (B.Tech Computer Science, 2027)  
+📫 [samarth07nagar@gmail.com](mailto:samarth07nagar@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/samarth-nagar-926b52230/) | 🐙 [GitHub](https://github.com/samarth-na)
 
 
 ## Currently 
 
-- Education: in senior year of Honors in Bachelors of Technology at sage uiversity Indore,\
-- exploring: cloud and infrastructure, high-performance system design, database optimization, networking and security, and backend architecture.\
-- Working with: Typescript, postgress, cloudflare.\
-- doing: researches on open-source pillars of software like linux, sqlite, docker for publishing. \
-- looking for internsihps and freelancing work.\
+- Education: in senior year of Honors in Bachelors of Technology in CompSci at sage Uiversity Indore,
+- exploring: cloud and infrastructure, high-performance system design, database optimization, networking and security, and backend architecture.
+- Working with: Typescript, postgress, cloudflare.
+- doing: researches on open-source pillars of software like linux, sqlite, docker for publishing. 
+- looking for internsihps and freelancing work.
 
-
----
 
 ## I have worked with
 
@@ -95,7 +101,14 @@ I enjoy working close to the system: shell workflows, automation, performance, i
 
 ---
 
-## About My Setup
+<p align="center">
+  <strong>Open to collaborations, internships, and learning opportunities.</strong><br/>
+  <a href="mailto:samarth07nagar@gmail.com">Drop me a line</a> — I reply within 24 hours.
+</p>
+
+---
+
+## Fun stuff!!!
 
 My main setup and configurations live in my dotfiles repository:
 [dotfiles](https://github.com/samarth-na/dotfiles)
@@ -121,14 +134,14 @@ System:
 </p>
 
 Main Workflow: 
-- *Alacritty* - terminal
+- Alacritty - terminal
 - Neovim - editor
 - tmux - multiplexer session manager
 - OpenCode - main AI agent 
 - Pi - side AI agent
 - fish - shell 
 
-Other tools: Yazi, Lazygit, Lazydocker, btop, Starship, Atuin, Zoxide, hunk
+> Other tools: Yazi, Lazygit, Lazydocker, btop, Starship, Atuin, Zoxide, hunk
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samarth-na&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
