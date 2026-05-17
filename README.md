@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/last-commit/samarth-na/dotfiles?style=flat" />
 </p>
 
----
 
 ```fish
 samarth@fedora:~$ whoami
@@ -17,8 +16,6 @@ Backend Developer | DevOps Engineer | System Administrator | Full Stack Architec
 samarth@fedora:~$ cat location.txt
 Indore, India | 3rd Year CS Student | Available for Internships & freelancing 
 ```
-
----
 
 ## About
 
