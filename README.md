@@ -2,11 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Systems+%26+Infrastructure;Linux+%2F+Networking+%2F+DevOps;" />
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samarth-na&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/samarth-na?style=flat&logo=github" />
   <img src="https://img.shields.io/github/stars/samarth-na?style=flat&logo=github" />
   <img src="https://img.shields.io/github/last-commit/samarth-na/dotfiles?style=flat" />
+  <img src="https://img.shields.io/github/license/samarth-na/dotfiles?style=flat" />
+  
+
 </p>
 
 
@@ -16,10 +20,19 @@ Backend Developer | DevOps Engineer | System Administrator | Full Stack Architec
 samarth@fedora:~$ cat location.txt
 Indore, India | 3rd Year CS Student | Available for Internships & freelancing 
 ```
+<h1></h1>
+<p align="center">
+  <a href="#about">about</a> •
+  <a href="#experience">experience</a> •
+  <a href="#featured-projects">projects</a> •
+  <a href="#research--case-studies">research</a> •
+  <a href="#tech-stack">tech stack</a> •
+  <a href="#fun-stuff">fun stuff</a>
+</p>
 
 ## About
 
-Hi, I'm Samarth (Sam). Backend-focused developer obsessed with systems, infrastructure, performance, and browser-native tech.
+#### Hi, I'm Samarth (Sam). Backend-focused developer obsessed with systems, infrastructure, performance, and browser-native tech.
 
 Started with Harvard's CS50, then spent the last few years exploring operating systems, network protocols, distributed systems, and now diving deep into **WebAssembly**, **Local LLMs**, and **API design**.
 
