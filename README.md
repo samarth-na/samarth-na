@@ -6,9 +6,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samarth-na&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/samarth-na?style=flat&logo=github" />
-  <img src="https://img.shields.io/github/stars/samarth-na?style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/samarth-na?style=flat&logo=github&color=orange" />
+  <img src="https://img.shields.io/badge/Most%20Used-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/github/last-commit/samarth-na/dotfiles?style=flat" />
-  <img src="https://img.shields.io/github/license/samarth-na/dotfiles?style=flat" />
+  <img src="https://img.shields.io/github/license/samarth-na/dotfiles?style=flat&color=red" />
   
 
 </p>
@@ -22,12 +23,12 @@ Indore, India | 3rd Year CS Student | Available for Internships & freelancing
 ```
 <h1></h1>
 <p align="center">
-  <a href="#about">about</a> •
-  <a href="#experience">experience</a> •
-  <a href="#featured-projects">projects</a> •
-  <a href="#research--case-studies">research</a> •
-  <a href="#tech-stack">tech stack</a> •
-  <a href="#fun-stuff">fun stuff</a>
+  <a href="#about">About</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#research--case-studies">Research</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#fun-stuff">Fun Stuff!</a>
 </p>
 
 ## About
@@ -92,65 +93,83 @@ Analyzed real production codebase to understand high-quality architecture decisi
 📄 **Full Report:** [casestudy-reactdotdev.samarth.page](https://casestudy-reactdotdev.samarth.page/)  
 📝 **Detailed Notes:** [Notion](https://samarthagar.notion.site/react-dev-363452daf74880b38e9df9e24d770dfa)
 
+# Tech stack
+## Languages
 
-## Tech Stack
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
-![Languages](https://img.shields.io/badge/Languages-2d2d2d?style=flat-square)\
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-![Databases](https://img.shields.io/badge/Databases-2d2d2d?style=flat-square)\
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![LibSQL](https://img.shields.io/badge/LibSQL_(sqld)-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](#)
 
-![Backend & APIs](https://img.shields.io/badge/Backend_%26_APIs-2d2d2d?style=flat-square)\
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![RPC](https://img.shields.io/badge/RPC-555555?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+## web dev
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff)](#)
+[![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)](#)
+[![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)](#)
+[![Bun](https://img.shields.io/badge/Bun-F9A03F?logo=bun&logoColor=fff)](#)
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
+[![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=fff)](#)
 
-![Browser & WASM](https://img.shields.io/badge/Browser_%26_WASM-2d2d2d?style=flat-square)\
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_(Local_LLMs)-FFFFFF?style=flat-square&logoColor=white)
 
-![Cloud & Platforms](https://img.shields.io/badge/Cloud_%26_Platforms-2d2d2d?style=flat-square)\
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+## Databases
 
-![Cloudflare Experience](https://img.shields.io/badge/Cloudflare_Experience-2d2d2d?style=flat-square)\
-![Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![R2](https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![D1](https://img.shields.io/badge/D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Durable Objects](https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Edge Functions](https://img.shields.io/badge/Edge_Functions-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?logo=mongodb&logoColor=fff)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 
-![DevOps & Infrastructure](https://img.shields.io/badge/DevOps_%26_Infrastructure-2d2d2d?style=flat-square)\
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2D77DD?style=flat-square&logo=git&logoColor=white)
+## Backend & APIs
 
-![Servers & Networking](https://img.shields.io/badge/Servers_%26_Networking-2d2d2d?style=flat-square)\
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat-square&logo=apache&logoColor=white)
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-4B9CD3?style=flat-square&logo=letsencrypt&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-121011?style=flat-square&logo=gnubash&logoColor=white)
+[![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socketdotio&logoColor=fff)](#)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#)
+[![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff)](#)
 
+## Cloud & Platforms
+
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff)](#)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff)](#)
+
+## Cloudflare Stack
+
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)](#)
+[![Workers](https://img.shields.io/badge/Workers-F38020?logo=cloudflare&logoColor=fff)](#)
+[![R2](https://img.shields.io/badge/R2-F38020?logo=cloudflare&logoColor=fff)](#)
+[![D1](https://img.shields.io/badge/D1-F38020?logo=cloudflare&logoColor=fff)](#)
+[![Durable Objects](https://img.shields.io/badge/Durable%20Objects-F38020?logo=cloudflare&logoColor=fff)](#)
+[![Workers AI](https://img.shields.io/badge/Workers%20AI-F38020?logo=cloudflare&logoColor=fff)](#)
+[![KV](https://img.shields.io/badge/KV-F38020?logo=cloudflare&logoColor=fff)](#)
+[![Queues](https://img.shields.io/badge/Queues-F38020?logo=cloudflare&logoColor=fff)](#)
+[![Pages](https://img.shields.io/badge/Pages-F38020?logo=cloudflare&logoColor=fff)](#)
+[![Hyperdrive](https://img.shields.io/badge/Hyperdrive-F38020?logo=cloudflare&logoColor=fff)](#)
+
+## DevOps & Infrastructure
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Alpine Linux](https://img.shields.io/badge/Alpine-0D597F?logo=alpinelinux&logoColor=fff)](#)
+
+## Servers & Networking
+
+[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff)](#)
+[![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff)](#)
+[![SSH](https://img.shields.io/badge/SSH-121011?logo=gnubash&logoColor=fff)](#)
 
 ## Fun stuff!!!
 
@@ -167,23 +186,27 @@ System:
 - GNOME 49
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fedora_43-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Terminal_First-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-fish-34C534?style=for-the-badge&logo=fishshell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multiplexer-tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal-Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Fedora%2043-294172?logo=fedora&logoColor=fff" />
 </p>
 
-Main Workflow: 
-- *Alacritty* - terminal
-- Neovim - editor
-- tmux - multiplexer session manager
-- OpenCode - main AI agent 
-- Pi - side AI agent
-- fish - shell 
+<p align="center">
 
-Other tools: Yazi, Lazygit, Lazydocker, btop, Starship, Atuin, Zoxide, hunk
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Shell-fish-34C534?logo=fishshell&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Multiplexer-tmux-1BB91F?logo=tmux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Terminal-Alacritty-F46D01?logo=alacritty&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff"/>
+</p>
+
+Main Workflow:
+- [Alacritty](https://alacritty.org/) — terminal
+- [Neovim](https://neovim.io/) — editor
+- [tmux](https://github.com/tmux/tmux/wiki) — multiplexer session manager
+- [OpenCode](https://opencode.ai/) — main AI agent
+- [PI](https://pi.dev/) — side AI agent
+- [fish](https://fishshell.com/) — shell
+Other tools: Yazi, Lazygit, Lazydocker, btop, Starship, Atuin, Zoxide, hunk, htop
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samarth-na&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
