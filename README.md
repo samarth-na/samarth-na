@@ -99,27 +99,29 @@ Analyzed real production codebase to understand high-quality architecture decisi
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](#)
-
 ## web dev
-[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)](#)
+
 [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff)](#)
-[![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)](#)
 [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)](#)
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)](#)
 [![Bun](https://img.shields.io/badge/Bun-F9A03F?logo=bun&logoColor=fff)](#)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
 [![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=fff)](#)
 
-
 ## Databases
 
+[![PlanetScale](https://img.shields.io/badge/PlanetScale-111111?logo=planetscale&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)](#)
@@ -131,6 +133,8 @@ Analyzed real production codebase to understand high-quality architecture decisi
 [![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socketdotio&logoColor=fff)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#)
 [![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+
 
 ## Cloud & Platforms
 
@@ -153,7 +157,6 @@ Analyzed real production codebase to understand high-quality architecture decisi
 [![KV](https://img.shields.io/badge/KV-F38020?logo=cloudflare&logoColor=fff)](#)
 [![Queues](https://img.shields.io/badge/Queues-F38020?logo=cloudflare&logoColor=fff)](#)
 [![Pages](https://img.shields.io/badge/Pages-F38020?logo=cloudflare&logoColor=fff)](#)
-[![Hyperdrive](https://img.shields.io/badge/Hyperdrive-F38020?logo=cloudflare&logoColor=fff)](#)
 
 ## DevOps & Infrastructure
 
@@ -170,6 +173,7 @@ Analyzed real production codebase to understand high-quality architecture decisi
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff)](#)
 [![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff)](#)
 [![SSH](https://img.shields.io/badge/SSH-121011?logo=gnubash&logoColor=fff)](#)
+
 
 ## Fun stuff!!!
 
@@ -188,6 +192,7 @@ System:
 <p align="center">
 
   <img src="https://img.shields.io/badge/Fedora%2043-294172?logo=fedora&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff" />
 </p>
 
 <p align="center">
