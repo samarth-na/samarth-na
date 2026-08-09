@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Systems+%26+Infrastructure;Linux+%2F+Networking+%2F+DevOps;" />
-</p>
-
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=samarth-na&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/samarth-na?style=flat&logo=github" />
   <img src="https://img.shields.io/github/stars/samarth-na?style=flat&logo=github&color=orange" />
@@ -212,6 +207,3 @@ Main Workflow:
 - [PI](https://pi.dev/) — side AI agent
 - [fish](https://fishshell.com/) — shell
 Other tools: Yazi, Lazygit, Lazydocker, btop, Starship, Atuin, Zoxide, hunk, htop
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samarth-na&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
